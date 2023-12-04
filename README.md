@@ -1,4 +1,4 @@
-# Projeto POO 🚀
+# Trabalho de POO 🚀
 
 ## Descrição
 Este é um projeto desenvolvido para a disciplina de Programação Orientada a Objetos (POO). Ele inclui a criação de classes, interfaces e interação com um banco de dados MySQL. A estrutura do projeto organiza as classes em pacotes para uma melhor legibilidade e manutenção. 📦
